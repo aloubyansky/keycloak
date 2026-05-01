@@ -1,0 +1,1316 @@
+{
+  "packages": [
+    {
+      "name": "@babel/runtime",
+      "version": "7.28.4"
+    },
+    {
+      "name": "@dagrejs/dagre",
+      "version": "1.1.8",
+      "direct": true
+    },
+    {
+      "name": "@dagrejs/graphlib",
+      "version": "2.2.4"
+    },
+    {
+      "name": "@microsoft/kiota-abstractions",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@microsoft/kiota-http-fetchlibrary",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@microsoft/kiota-serialization-form",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@microsoft/kiota-serialization-json",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@microsoft/kiota-serialization-multipart",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@microsoft/kiota-serialization-text",
+      "version": "1.0.0-preview.99",
+      "direct": true
+    },
+    {
+      "name": "@noble/hashes",
+      "version": "2.0.1",
+      "direct": true
+    },
+    {
+      "name": "@opentelemetry/api",
+      "version": "1.9.0"
+    },
+    {
+      "name": "@patternfly-v5/patternfly",
+      "version": "5.4.2",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/patternfly",
+      "version": "4.224.5",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/patternfly",
+      "version": "5.4.2",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/react-core",
+      "version": "5.4.14",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/react-icons",
+      "version": "5.4.2",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/react-styles",
+      "version": "5.4.1",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/react-table",
+      "version": "5.4.16",
+      "direct": true
+    },
+    {
+      "name": "@patternfly/react-tokens",
+      "version": "5.4.1"
+    },
+    {
+      "name": "@reactflow/background",
+      "version": "11.3.14"
+    },
+    {
+      "name": "@reactflow/controls",
+      "version": "11.2.14"
+    },
+    {
+      "name": "@reactflow/core",
+      "version": "11.11.4"
+    },
+    {
+      "name": "@reactflow/minimap",
+      "version": "11.7.14"
+    },
+    {
+      "name": "@reactflow/node-resizer",
+      "version": "2.2.14"
+    },
+    {
+      "name": "@reactflow/node-toolbar",
+      "version": "1.3.14"
+    },
+    {
+      "name": "@remix-run/router",
+      "version": "1.23.2"
+    },
+    {
+      "name": "@std-uritemplate/std-uritemplate",
+      "version": "2.0.8"
+    },
+    {
+      "name": "@types/d3",
+      "version": "7.4.3"
+    },
+    {
+      "name": "@types/d3-array",
+      "version": "3.2.1"
+    },
+    {
+      "name": "@types/d3-axis",
+      "version": "3.0.6"
+    },
+    {
+      "name": "@types/d3-brush",
+      "version": "3.0.6"
+    },
+    {
+      "name": "@types/d3-chord",
+      "version": "3.0.6"
+    },
+    {
+      "name": "@types/d3-color",
+      "version": "3.1.3"
+    },
+    {
+      "name": "@types/d3-contour",
+      "version": "3.0.6"
+    },
+    {
+      "name": "@types/d3-delaunay",
+      "version": "6.0.4"
+    },
+    {
+      "name": "@types/d3-dispatch",
+      "version": "3.0.7"
+    },
+    {
+      "name": "@types/d3-drag",
+      "version": "3.0.7"
+    },
+    {
+      "name": "@types/d3-dsv",
+      "version": "3.0.7"
+    },
+    {
+      "name": "@types/d3-ease",
+      "version": "3.0.2"
+    },
+    {
+      "name": "@types/d3-fetch",
+      "version": "3.0.7"
+    },
+    {
+      "name": "@types/d3-force",
+      "version": "3.0.10"
+    },
+    {
+      "name": "@types/d3-format",
+      "version": "3.0.4"
+    },
+    {
+      "name": "@types/d3-geo",
+      "version": "3.1.0"
+    },
+    {
+      "name": "@types/d3-hierarchy",
+      "version": "3.1.7"
+    },
+    {
+      "name": "@types/d3-interpolate",
+      "version": "3.0.4"
+    },
+    {
+      "name": "@types/d3-path",
+      "version": "3.1.1"
+    },
+    {
+      "name": "@types/d3-polygon",
+      "version": "3.0.2"
+    },
+    {
+      "name": "@types/d3-quadtree",
+      "version": "3.0.6"
+    },
+    {
+      "name": "@types/d3-random",
+      "version": "3.0.3"
+    },
+    {
+      "name": "@types/d3-scale",
+      "version": "4.0.9"
+    },
+    {
+      "name": "@types/d3-scale-chromatic",
+      "version": "3.1.0"
+    },
+    {
+      "name": "@types/d3-selection",
+      "version": "3.0.11"
+    },
+    {
+      "name": "@types/d3-shape",
+      "version": "3.1.7"
+    },
+    {
+      "name": "@types/d3-time",
+      "version": "3.0.4"
+    },
+    {
+      "name": "@types/d3-time-format",
+      "version": "4.0.3"
+    },
+    {
+      "name": "@types/d3-timer",
+      "version": "3.0.2"
+    },
+    {
+      "name": "@types/d3-transition",
+      "version": "3.0.9"
+    },
+    {
+      "name": "@types/d3-zoom",
+      "version": "3.0.8"
+    },
+    {
+      "name": "@types/geojson",
+      "version": "7946.0.16"
+    },
+    {
+      "name": "@types/hast",
+      "version": "2.3.10"
+    },
+    {
+      "name": "@types/hast",
+      "version": "3.0.4"
+    },
+    {
+      "name": "@types/mdast",
+      "version": "4.0.4"
+    },
+    {
+      "name": "@types/prismjs",
+      "version": "1.26.5"
+    },
+    {
+      "name": "@types/prop-types",
+      "version": "15.7.15"
+    },
+    {
+      "name": "@types/react",
+      "version": "18.3.23"
+    },
+    {
+      "name": "@types/unist",
+      "version": "2.0.11"
+    },
+    {
+      "name": "@types/unist",
+      "version": "3.0.3"
+    },
+    {
+      "name": "@uiw/react-textarea-code-editor",
+      "version": "3.1.1",
+      "direct": true
+    },
+    {
+      "name": "@ungap/structured-clone",
+      "version": "1.3.0"
+    },
+    {
+      "name": "attr-accept",
+      "version": "2.2.5"
+    },
+    {
+      "name": "bail",
+      "version": "2.0.2"
+    },
+    {
+      "name": "bootstrap",
+      "version": "3.4.1"
+    },
+    {
+      "name": "camelize-ts",
+      "version": "3.0.0",
+      "direct": true
+    },
+    {
+      "name": "ccount",
+      "version": "2.0.1"
+    },
+    {
+      "name": "character-entities",
+      "version": "2.0.2"
+    },
+    {
+      "name": "character-entities-html4",
+      "version": "2.1.0"
+    },
+    {
+      "name": "character-entities-legacy",
+      "version": "3.0.0"
+    },
+    {
+      "name": "character-reference-invalid",
+      "version": "2.0.1"
+    },
+    {
+      "name": "classcat",
+      "version": "5.0.5"
+    },
+    {
+      "name": "comma-separated-tokens",
+      "version": "2.0.3"
+    },
+    {
+      "name": "core-util-is",
+      "version": "1.0.3"
+    },
+    {
+      "name": "csstype",
+      "version": "3.1.3"
+    },
+    {
+      "name": "d3-color",
+      "version": "3.1.0"
+    },
+    {
+      "name": "d3-dispatch",
+      "version": "3.0.1"
+    },
+    {
+      "name": "d3-drag",
+      "version": "3.0.0"
+    },
+    {
+      "name": "d3-ease",
+      "version": "3.0.1"
+    },
+    {
+      "name": "d3-interpolate",
+      "version": "3.0.1"
+    },
+    {
+      "name": "d3-selection",
+      "version": "3.0.0"
+    },
+    {
+      "name": "d3-timer",
+      "version": "3.0.1"
+    },
+    {
+      "name": "d3-transition",
+      "version": "3.0.1"
+    },
+    {
+      "name": "d3-zoom",
+      "version": "3.0.0"
+    },
+    {
+      "name": "decode-named-character-reference",
+      "version": "1.2.0"
+    },
+    {
+      "name": "dequal",
+      "version": "2.0.3"
+    },
+    {
+      "name": "devlop",
+      "version": "1.1.0"
+    },
+    {
+      "name": "entities",
+      "version": "6.0.1"
+    },
+    {
+      "name": "extend",
+      "version": "3.0.2"
+    },
+    {
+      "name": "file-saver",
+      "version": "2.0.5",
+      "direct": true
+    },
+    {
+      "name": "file-selector",
+      "version": "2.1.2"
+    },
+    {
+      "name": "flat",
+      "version": "6.0.1",
+      "direct": true
+    },
+    {
+      "name": "focus-trap",
+      "version": "7.6.2"
+    },
+    {
+      "name": "font-awesome",
+      "version": "4.7.0"
+    },
+    {
+      "name": "hast-util-from-html",
+      "version": "2.0.3"
+    },
+    {
+      "name": "hast-util-from-parse5",
+      "version": "8.0.3"
+    },
+    {
+      "name": "hast-util-parse-selector",
+      "version": "3.1.1"
+    },
+    {
+      "name": "hast-util-parse-selector",
+      "version": "4.0.0"
+    },
+    {
+      "name": "hast-util-to-html",
+      "version": "9.0.5"
+    },
+    {
+      "name": "hast-util-to-string",
+      "version": "3.0.1"
+    },
+    {
+      "name": "hast-util-whitespace",
+      "version": "3.0.0"
+    },
+    {
+      "name": "hastscript",
+      "version": "7.2.0"
+    },
+    {
+      "name": "hastscript",
+      "version": "9.0.1"
+    },
+    {
+      "name": "html-parse-stringify",
+      "version": "3.0.1"
+    },
+    {
+      "name": "html-void-elements",
+      "version": "3.0.0"
+    },
+    {
+      "name": "i18next",
+      "version": "25.7.3",
+      "direct": true
+    },
+    {
+      "name": "i18next-fetch-backend",
+      "version": "7.0.0",
+      "direct": true
+    },
+    {
+      "name": "immediate",
+      "version": "3.0.6"
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4"
+    },
+    {
+      "name": "is-alphabetical",
+      "version": "2.0.1"
+    },
+    {
+      "name": "is-alphanumerical",
+      "version": "2.0.1"
+    },
+    {
+      "name": "is-decimal",
+      "version": "2.0.1"
+    },
+    {
+      "name": "is-hexadecimal",
+      "version": "2.0.1"
+    },
+    {
+      "name": "is-plain-obj",
+      "version": "4.1.0"
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0"
+    },
+    {
+      "name": "jquery",
+      "version": "3.4.1"
+    },
+    {
+      "name": "js-tokens",
+      "version": "4.0.0"
+    },
+    {
+      "name": "jszip",
+      "version": "3.10.1",
+      "direct": true
+    },
+    {
+      "name": "keycloak-js",
+      "version": "26.2.2",
+      "direct": true
+    },
+    {
+      "name": "lie",
+      "version": "3.3.0"
+    },
+    {
+      "name": "lodash",
+      "version": "4.17.21"
+    },
+    {
+      "name": "lodash-es",
+      "version": "4.18.1",
+      "direct": true
+    },
+    {
+      "name": "loose-envify",
+      "version": "1.4.0"
+    },
+    {
+      "name": "mdast-util-to-hast",
+      "version": "13.2.0"
+    },
+    {
+      "name": "micromark-util-character",
+      "version": "2.1.1"
+    },
+    {
+      "name": "micromark-util-encode",
+      "version": "2.0.1"
+    },
+    {
+      "name": "micromark-util-sanitize-uri",
+      "version": "2.0.1"
+    },
+    {
+      "name": "micromark-util-symbol",
+      "version": "2.0.1"
+    },
+    {
+      "name": "micromark-util-types",
+      "version": "2.0.2"
+    },
+    {
+      "name": "object-assign",
+      "version": "4.1.1"
+    },
+    {
+      "name": "p-debounce",
+      "version": "5.1.0",
+      "direct": true
+    },
+    {
+      "name": "pako",
+      "version": "1.0.11"
+    },
+    {
+      "name": "parse-entities",
+      "version": "4.0.2"
+    },
+    {
+      "name": "parse-numeric-range",
+      "version": "1.3.0"
+    },
+    {
+      "name": "parse5",
+      "version": "7.3.0"
+    },
+    {
+      "name": "patternfly",
+      "version": "3.59.5",
+      "direct": true
+    },
+    {
+      "name": "process-nextick-args",
+      "version": "2.0.1"
+    },
+    {
+      "name": "prop-types",
+      "version": "15.8.1"
+    },
+    {
+      "name": "property-information",
+      "version": "6.5.0"
+    },
+    {
+      "name": "property-information",
+      "version": "7.1.0"
+    },
+    {
+      "name": "react",
+      "version": "18.3.1",
+      "direct": true
+    },
+    {
+      "name": "react-dom",
+      "version": "18.3.1",
+      "direct": true
+    },
+    {
+      "name": "react-dropzone",
+      "version": "14.3.8"
+    },
+    {
+      "name": "react-hook-form",
+      "version": "7.70.0",
+      "direct": true
+    },
+    {
+      "name": "react-i18next",
+      "version": "16.5.1",
+      "direct": true
+    },
+    {
+      "name": "react-is",
+      "version": "16.13.1"
+    },
+    {
+      "name": "react-router",
+      "version": "6.30.3"
+    },
+    {
+      "name": "react-router-dom",
+      "version": "6.30.3",
+      "direct": true
+    },
+    {
+      "name": "reactflow",
+      "version": "11.11.4",
+      "direct": true
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8"
+    },
+    {
+      "name": "refractor",
+      "version": "4.9.0"
+    },
+    {
+      "name": "rehype",
+      "version": "13.0.2"
+    },
+    {
+      "name": "rehype-parse",
+      "version": "9.0.1"
+    },
+    {
+      "name": "rehype-prism-plus",
+      "version": "2.0.0"
+    },
+    {
+      "name": "rehype-stringify",
+      "version": "10.0.1"
+    },
+    {
+      "name": "rfc4648",
+      "version": "1.5.4",
+      "direct": true
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2"
+    },
+    {
+      "name": "scheduler",
+      "version": "0.23.2"
+    },
+    {
+      "name": "setimmediate",
+      "version": "1.0.5"
+    },
+    {
+      "name": "space-separated-tokens",
+      "version": "2.0.2"
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1"
+    },
+    {
+      "name": "stringify-entities",
+      "version": "4.0.4"
+    },
+    {
+      "name": "tabbable",
+      "version": "6.2.0"
+    },
+    {
+      "name": "tinyduration",
+      "version": "3.4.1"
+    },
+    {
+      "name": "trim-lines",
+      "version": "3.0.1"
+    },
+    {
+      "name": "trough",
+      "version": "2.2.0"
+    },
+    {
+      "name": "tslib",
+      "version": "2.8.1"
+    },
+    {
+      "name": "typescript",
+      "version": "5.9.3"
+    },
+    {
+      "name": "unified",
+      "version": "11.0.5"
+    },
+    {
+      "name": "unist-util-filter",
+      "version": "5.0.1"
+    },
+    {
+      "name": "unist-util-is",
+      "version": "6.0.0"
+    },
+    {
+      "name": "unist-util-position",
+      "version": "5.0.0"
+    },
+    {
+      "name": "unist-util-stringify-position",
+      "version": "4.0.0"
+    },
+    {
+      "name": "unist-util-visit",
+      "version": "5.0.0"
+    },
+    {
+      "name": "unist-util-visit-parents",
+      "version": "6.0.1"
+    },
+    {
+      "name": "url-template",
+      "version": "3.1.1",
+      "direct": true
+    },
+    {
+      "name": "use-sync-external-store",
+      "version": "1.6.0"
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2"
+    },
+    {
+      "name": "uuid",
+      "version": "13.0.0",
+      "direct": true
+    },
+    {
+      "name": "vfile",
+      "version": "6.0.3"
+    },
+    {
+      "name": "vfile-location",
+      "version": "5.0.3"
+    },
+    {
+      "name": "vfile-message",
+      "version": "4.0.3"
+    },
+    {
+      "name": "void-elements",
+      "version": "3.1.0"
+    },
+    {
+      "name": "web-namespaces",
+      "version": "2.0.1"
+    },
+    {
+      "name": "yaml",
+      "version": "2.8.3",
+      "direct": true
+    },
+    {
+      "name": "zustand",
+      "version": "4.5.7"
+    },
+    {
+      "name": "zwitch",
+      "version": "2.0.4"
+    }
+  ],
+  "dependencies": {
+    "@dagrejs/dagre@1.1.8": [
+      "@dagrejs/graphlib@2.2.4"
+    ],
+    "@microsoft/kiota-abstractions@1.0.0-preview.99": [
+      "@opentelemetry/api@1.9.0",
+      "@std-uritemplate/std-uritemplate@2.0.8",
+      "tinyduration@3.4.1",
+      "tslib@2.8.1"
+    ],
+    "@microsoft/kiota-http-fetchlibrary@1.0.0-preview.99": [
+      "@microsoft/kiota-abstractions@1.0.0-preview.99",
+      "@opentelemetry/api@1.9.0",
+      "tslib@2.8.1"
+    ],
+    "@microsoft/kiota-serialization-form@1.0.0-preview.99": [
+      "@microsoft/kiota-abstractions@1.0.0-preview.99",
+      "tslib@2.8.1"
+    ],
+    "@microsoft/kiota-serialization-json@1.0.0-preview.99": [
+      "@microsoft/kiota-abstractions@1.0.0-preview.99",
+      "tslib@2.8.1"
+    ],
+    "@microsoft/kiota-serialization-multipart@1.0.0-preview.99": [
+      "@microsoft/kiota-abstractions@1.0.0-preview.99",
+      "tslib@2.8.1"
+    ],
+    "@microsoft/kiota-serialization-text@1.0.0-preview.99": [
+      "@microsoft/kiota-abstractions@1.0.0-preview.99",
+      "tslib@2.8.1"
+    ],
+    "@patternfly/react-core@5.4.14": [
+      "@patternfly/react-icons@5.4.2",
+      "@patternfly/react-styles@5.4.1",
+      "@patternfly/react-tokens@5.4.1",
+      "focus-trap@7.6.2",
+      "react-dom@18.3.1",
+      "react-dropzone@14.3.8",
+      "react@18.3.1",
+      "tslib@2.8.1"
+    ],
+    "@patternfly/react-icons@5.4.2": [
+      "react-dom@18.3.1",
+      "react@18.3.1"
+    ],
+    "@patternfly/react-table@5.4.16": [
+      "@patternfly/react-core@5.4.14",
+      "@patternfly/react-icons@5.4.2",
+      "@patternfly/react-styles@5.4.1",
+      "@patternfly/react-tokens@5.4.1",
+      "lodash@4.17.21",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "tslib@2.8.1"
+    ],
+    "@reactflow/background@11.3.14": [
+      "@reactflow/core@11.11.4",
+      "classcat@5.0.5",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@reactflow/controls@11.2.14": [
+      "@reactflow/core@11.11.4",
+      "classcat@5.0.5",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@reactflow/core@11.11.4": [
+      "@types/d3-drag@3.0.7",
+      "@types/d3-selection@3.0.11",
+      "@types/d3-zoom@3.0.8",
+      "@types/d3@7.4.3",
+      "classcat@5.0.5",
+      "d3-drag@3.0.0",
+      "d3-selection@3.0.0",
+      "d3-zoom@3.0.0",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@reactflow/minimap@11.7.14": [
+      "@reactflow/core@11.11.4",
+      "@types/d3-selection@3.0.11",
+      "@types/d3-zoom@3.0.8",
+      "classcat@5.0.5",
+      "d3-selection@3.0.0",
+      "d3-zoom@3.0.0",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@reactflow/node-resizer@2.2.14": [
+      "@reactflow/core@11.11.4",
+      "classcat@5.0.5",
+      "d3-drag@3.0.0",
+      "d3-selection@3.0.0",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@reactflow/node-toolbar@1.3.14": [
+      "@reactflow/core@11.11.4",
+      "classcat@5.0.5",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "zustand@4.5.7"
+    ],
+    "@types/d3-axis@3.0.6": [
+      "@types/d3-selection@3.0.11"
+    ],
+    "@types/d3-brush@3.0.6": [
+      "@types/d3-selection@3.0.11"
+    ],
+    "@types/d3-contour@3.0.6": [
+      "@types/d3-array@3.2.1",
+      "@types/geojson@7946.0.16"
+    ],
+    "@types/d3-drag@3.0.7": [
+      "@types/d3-selection@3.0.11"
+    ],
+    "@types/d3-fetch@3.0.7": [
+      "@types/d3-dsv@3.0.7"
+    ],
+    "@types/d3-geo@3.1.0": [
+      "@types/geojson@7946.0.16"
+    ],
+    "@types/d3-interpolate@3.0.4": [
+      "@types/d3-color@3.1.3"
+    ],
+    "@types/d3-scale@4.0.9": [
+      "@types/d3-time@3.0.4"
+    ],
+    "@types/d3-shape@3.1.7": [
+      "@types/d3-path@3.1.1"
+    ],
+    "@types/d3-transition@3.0.9": [
+      "@types/d3-selection@3.0.11"
+    ],
+    "@types/d3-zoom@3.0.8": [
+      "@types/d3-interpolate@3.0.4",
+      "@types/d3-selection@3.0.11"
+    ],
+    "@types/d3@7.4.3": [
+      "@types/d3-array@3.2.1",
+      "@types/d3-axis@3.0.6",
+      "@types/d3-brush@3.0.6",
+      "@types/d3-chord@3.0.6",
+      "@types/d3-color@3.1.3",
+      "@types/d3-contour@3.0.6",
+      "@types/d3-delaunay@6.0.4",
+      "@types/d3-dispatch@3.0.7",
+      "@types/d3-drag@3.0.7",
+      "@types/d3-dsv@3.0.7",
+      "@types/d3-ease@3.0.2",
+      "@types/d3-fetch@3.0.7",
+      "@types/d3-force@3.0.10",
+      "@types/d3-format@3.0.4",
+      "@types/d3-geo@3.1.0",
+      "@types/d3-hierarchy@3.1.7",
+      "@types/d3-interpolate@3.0.4",
+      "@types/d3-path@3.1.1",
+      "@types/d3-polygon@3.0.2",
+      "@types/d3-quadtree@3.0.6",
+      "@types/d3-random@3.0.3",
+      "@types/d3-scale-chromatic@3.1.0",
+      "@types/d3-scale@4.0.9",
+      "@types/d3-selection@3.0.11",
+      "@types/d3-shape@3.1.7",
+      "@types/d3-time-format@4.0.3",
+      "@types/d3-time@3.0.4",
+      "@types/d3-timer@3.0.2",
+      "@types/d3-transition@3.0.9",
+      "@types/d3-zoom@3.0.8"
+    ],
+    "@types/hast@2.3.10": [
+      "@types/unist@2.0.11"
+    ],
+    "@types/hast@3.0.4": [
+      "@types/unist@3.0.3"
+    ],
+    "@types/mdast@4.0.4": [
+      "@types/unist@3.0.3"
+    ],
+    "@types/react@18.3.23": [
+      "@types/prop-types@15.7.15",
+      "csstype@3.1.3"
+    ],
+    "@uiw/react-textarea-code-editor@3.1.1": [
+      "@babel/runtime@7.28.4",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "rehype-prism-plus@2.0.0",
+      "rehype@13.0.2"
+    ],
+    "d3-drag@3.0.0": [
+      "d3-dispatch@3.0.1",
+      "d3-selection@3.0.0"
+    ],
+    "d3-interpolate@3.0.1": [
+      "d3-color@3.1.0"
+    ],
+    "d3-transition@3.0.1": [
+      "d3-color@3.1.0",
+      "d3-dispatch@3.0.1",
+      "d3-ease@3.0.1",
+      "d3-interpolate@3.0.1",
+      "d3-selection@3.0.0",
+      "d3-timer@3.0.1"
+    ],
+    "d3-zoom@3.0.0": [
+      "d3-dispatch@3.0.1",
+      "d3-drag@3.0.0",
+      "d3-interpolate@3.0.1",
+      "d3-selection@3.0.0",
+      "d3-transition@3.0.1"
+    ],
+    "decode-named-character-reference@1.2.0": [
+      "character-entities@2.0.2"
+    ],
+    "devlop@1.1.0": [
+      "dequal@2.0.3"
+    ],
+    "file-selector@2.1.2": [
+      "tslib@2.8.1"
+    ],
+    "focus-trap@7.6.2": [
+      "tabbable@6.2.0"
+    ],
+    "hast-util-from-html@2.0.3": [
+      "@types/hast@3.0.4",
+      "devlop@1.1.0",
+      "hast-util-from-parse5@8.0.3",
+      "parse5@7.3.0",
+      "vfile-message@4.0.3",
+      "vfile@6.0.3"
+    ],
+    "hast-util-from-parse5@8.0.3": [
+      "@types/hast@3.0.4",
+      "@types/unist@3.0.3",
+      "devlop@1.1.0",
+      "hastscript@9.0.1",
+      "property-information@7.1.0",
+      "vfile-location@5.0.3",
+      "vfile@6.0.3",
+      "web-namespaces@2.0.1"
+    ],
+    "hast-util-parse-selector@3.1.1": [
+      "@types/hast@2.3.10"
+    ],
+    "hast-util-parse-selector@4.0.0": [
+      "@types/hast@3.0.4"
+    ],
+    "hast-util-to-html@9.0.5": [
+      "@types/hast@3.0.4",
+      "@types/unist@3.0.3",
+      "ccount@2.0.1",
+      "comma-separated-tokens@2.0.3",
+      "hast-util-whitespace@3.0.0",
+      "html-void-elements@3.0.0",
+      "mdast-util-to-hast@13.2.0",
+      "property-information@7.1.0",
+      "space-separated-tokens@2.0.2",
+      "stringify-entities@4.0.4",
+      "zwitch@2.0.4"
+    ],
+    "hast-util-to-string@3.0.1": [
+      "@types/hast@3.0.4"
+    ],
+    "hast-util-whitespace@3.0.0": [
+      "@types/hast@3.0.4"
+    ],
+    "hastscript@7.2.0": [
+      "@types/hast@2.3.10",
+      "comma-separated-tokens@2.0.3",
+      "hast-util-parse-selector@3.1.1",
+      "property-information@6.5.0",
+      "space-separated-tokens@2.0.2"
+    ],
+    "hastscript@9.0.1": [
+      "@types/hast@3.0.4",
+      "comma-separated-tokens@2.0.3",
+      "hast-util-parse-selector@4.0.0",
+      "property-information@7.1.0",
+      "space-separated-tokens@2.0.2"
+    ],
+    "html-parse-stringify@3.0.1": [
+      "void-elements@3.1.0"
+    ],
+    "i18next@25.7.3": [
+      "@babel/runtime@7.28.4",
+      "typescript@5.9.3"
+    ],
+    "is-alphanumerical@2.0.1": [
+      "is-alphabetical@2.0.1",
+      "is-decimal@2.0.1"
+    ],
+    "jszip@3.10.1": [
+      "lie@3.3.0",
+      "pako@1.0.11",
+      "readable-stream@2.3.8",
+      "setimmediate@1.0.5"
+    ],
+    "lie@3.3.0": [
+      "immediate@3.0.6"
+    ],
+    "loose-envify@1.4.0": [
+      "js-tokens@4.0.0"
+    ],
+    "mdast-util-to-hast@13.2.0": [
+      "@types/hast@3.0.4",
+      "@types/mdast@4.0.4",
+      "@ungap/structured-clone@1.3.0",
+      "devlop@1.1.0",
+      "micromark-util-sanitize-uri@2.0.1",
+      "trim-lines@3.0.1",
+      "unist-util-position@5.0.0",
+      "unist-util-visit@5.0.0",
+      "vfile@6.0.3"
+    ],
+    "micromark-util-character@2.1.1": [
+      "micromark-util-symbol@2.0.1",
+      "micromark-util-types@2.0.2"
+    ],
+    "micromark-util-sanitize-uri@2.0.1": [
+      "micromark-util-character@2.1.1",
+      "micromark-util-encode@2.0.1",
+      "micromark-util-symbol@2.0.1"
+    ],
+    "parse-entities@4.0.2": [
+      "@types/unist@2.0.11",
+      "character-entities-legacy@3.0.0",
+      "character-reference-invalid@2.0.1",
+      "decode-named-character-reference@1.2.0",
+      "is-alphanumerical@2.0.1",
+      "is-decimal@2.0.1",
+      "is-hexadecimal@2.0.1"
+    ],
+    "parse5@7.3.0": [
+      "entities@6.0.1"
+    ],
+    "patternfly@3.59.5": [
+      "bootstrap@3.4.1",
+      "font-awesome@4.7.0",
+      "jquery@3.4.1"
+    ],
+    "prop-types@15.8.1": [
+      "loose-envify@1.4.0",
+      "object-assign@4.1.1",
+      "react-is@16.13.1"
+    ],
+    "react-dom@18.3.1": [
+      "loose-envify@1.4.0",
+      "react@18.3.1",
+      "scheduler@0.23.2"
+    ],
+    "react-dropzone@14.3.8": [
+      "attr-accept@2.2.5",
+      "file-selector@2.1.2",
+      "prop-types@15.8.1",
+      "react@18.3.1"
+    ],
+    "react-hook-form@7.70.0": [
+      "react@18.3.1"
+    ],
+    "react-i18next@16.5.1": [
+      "@babel/runtime@7.28.4",
+      "html-parse-stringify@3.0.1",
+      "i18next@25.7.3",
+      "react-dom@18.3.1",
+      "react@18.3.1",
+      "typescript@5.9.3",
+      "use-sync-external-store@1.6.0"
+    ],
+    "react-router-dom@6.30.3": [
+      "@remix-run/router@1.23.2",
+      "react-dom@18.3.1",
+      "react-router@6.30.3",
+      "react@18.3.1"
+    ],
+    "react-router@6.30.3": [
+      "@remix-run/router@1.23.2",
+      "react@18.3.1"
+    ],
+    "react@18.3.1": [
+      "loose-envify@1.4.0"
+    ],
+    "reactflow@11.11.4": [
+      "@reactflow/background@11.3.14",
+      "@reactflow/controls@11.2.14",
+      "@reactflow/core@11.11.4",
+      "@reactflow/minimap@11.7.14",
+      "@reactflow/node-resizer@2.2.14",
+      "@reactflow/node-toolbar@1.3.14",
+      "react-dom@18.3.1",
+      "react@18.3.1"
+    ],
+    "readable-stream@2.3.8": [
+      "core-util-is@1.0.3",
+      "inherits@2.0.4",
+      "isarray@1.0.0",
+      "process-nextick-args@2.0.1",
+      "safe-buffer@5.1.2",
+      "string_decoder@1.1.1",
+      "util-deprecate@1.0.2"
+    ],
+    "refractor@4.9.0": [
+      "@types/hast@2.3.10",
+      "@types/prismjs@1.26.5",
+      "hastscript@7.2.0",
+      "parse-entities@4.0.2"
+    ],
+    "rehype-parse@9.0.1": [
+      "@types/hast@3.0.4",
+      "hast-util-from-html@2.0.3",
+      "unified@11.0.5"
+    ],
+    "rehype-prism-plus@2.0.0": [
+      "hast-util-to-string@3.0.1",
+      "parse-numeric-range@1.3.0",
+      "refractor@4.9.0",
+      "rehype-parse@9.0.1",
+      "unist-util-filter@5.0.1",
+      "unist-util-visit@5.0.0"
+    ],
+    "rehype-stringify@10.0.1": [
+      "@types/hast@3.0.4",
+      "hast-util-to-html@9.0.5",
+      "unified@11.0.5"
+    ],
+    "rehype@13.0.2": [
+      "@types/hast@3.0.4",
+      "rehype-parse@9.0.1",
+      "rehype-stringify@10.0.1",
+      "unified@11.0.5"
+    ],
+    "scheduler@0.23.2": [
+      "loose-envify@1.4.0"
+    ],
+    "string_decoder@1.1.1": [
+      "safe-buffer@5.1.2"
+    ],
+    "stringify-entities@4.0.4": [
+      "character-entities-html4@2.1.0",
+      "character-entities-legacy@3.0.0"
+    ],
+    "unified@11.0.5": [
+      "@types/unist@3.0.3",
+      "bail@2.0.2",
+      "devlop@1.1.0",
+      "extend@3.0.2",
+      "is-plain-obj@4.1.0",
+      "trough@2.2.0",
+      "vfile@6.0.3"
+    ],
+    "unist-util-filter@5.0.1": [
+      "@types/unist@3.0.3",
+      "unist-util-is@6.0.0",
+      "unist-util-visit-parents@6.0.1"
+    ],
+    "unist-util-is@6.0.0": [
+      "@types/unist@3.0.3"
+    ],
+    "unist-util-position@5.0.0": [
+      "@types/unist@3.0.3"
+    ],
+    "unist-util-stringify-position@4.0.0": [
+      "@types/unist@3.0.3"
+    ],
+    "unist-util-visit-parents@6.0.1": [
+      "@types/unist@3.0.3",
+      "unist-util-is@6.0.0"
+    ],
+    "unist-util-visit@5.0.0": [
+      "@types/unist@3.0.3",
+      "unist-util-is@6.0.0",
+      "unist-util-visit-parents@6.0.1"
+    ],
+    "use-sync-external-store@1.6.0": [
+      "react@18.3.1"
+    ],
+    "vfile-location@5.0.3": [
+      "@types/unist@3.0.3",
+      "vfile@6.0.3"
+    ],
+    "vfile-message@4.0.3": [
+      "@types/unist@3.0.3",
+      "unist-util-stringify-position@4.0.0"
+    ],
+    "vfile@6.0.3": [
+      "@types/unist@3.0.3",
+      "vfile-message@4.0.3"
+    ],
+    "zustand@4.5.7": [
+      "@types/react@18.3.23",
+      "react@18.3.1",
+      "use-sync-external-store@1.6.0"
+    ]
+  }
+}

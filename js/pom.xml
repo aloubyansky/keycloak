@@ -124,6 +124,15 @@
                             <arguments>build</arguments>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>generate-npm-sbom-manifest</id>
+                        <goals>
+                            <goal>pnpm</goal>
+                        </goals>
+                        <configuration>
+                            <arguments>exec node util/generate-npm-manifest.mjs --output ${maven.multiModuleProjectDirectory}/quarkus/deployment/src/main/resources/META-INF/npm-sbom-manifest.json</arguments>
+                        </configuration>
+                    </execution>
                 </executions>
             </plugin>
         </plugins>
